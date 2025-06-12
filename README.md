@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi there! I’m Srijan Verma, a Computer Science and Engineering (CSE) student at the Indian Institute of Information Technology (IIIT) Nagpur. I often find myself dozing off in the reading room whenever I encounter intensely complex, hyper-convolutional mathematics problems that truly put my brain to the test.
 
+In Almost Every Field...
+
+                                                     
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srijanvermaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srijan-verma-803219183) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/srijan-verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bt23cse219@iiitn.ac.in) 
