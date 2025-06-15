@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Srijan Verma, Interest in M.L !!
+Hi there! I’m Srijan Verma, Interested in M.L !!
 
                                                      
 
