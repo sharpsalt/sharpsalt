@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Srijan Verma, a Computer Science and Engineering (CSE) student at the Indian Institute of Information Technology (IIIT) Nagpur. I often find myself dozing off in the reading room whenever I encounter intensely complex, hyper-convolutional mathematics problems that truly put my brain to the test.
-
-In Almost Every Field...
+Hi there! I’m Srijan Verma, Interest in M.L !!
 
                                                      
 
