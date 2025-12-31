@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Srijan Verma, Interested in Backend,M.L,D.L,R.L !!
+## I like computers,backend,system programming, and Computer Vision mostly.
 
                                                      
 
