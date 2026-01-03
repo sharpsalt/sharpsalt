@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I like computers,backend,system programming, and Computer Vision mostly.
+I like computers, backend, system programming, and computer vision mostly.
 
                                                      
 
