@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like computers, backend, system programming, and Machine Learnng mostly
+I like computers, backend, system programming, and Machine Learnng mostly.
 
                                                      
 
