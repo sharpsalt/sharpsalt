@@ -14,6 +14,9 @@ I like computers, backend, system programming, and Machine Learnng mostly.
 ![](https://nirzak-streak-stats.vercel.app/?user=sharpsalt&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharpsalt&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![Profile Views](https://komarev.com/ghpvc/?username=sharpsalt&color=blue)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sharpsalt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -25,6 +28,7 @@ I like computers, backend, system programming, and Machine Learnng mostly.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sharpsalt&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
